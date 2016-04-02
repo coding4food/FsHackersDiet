@@ -1,0 +1,1 @@
+You have to remove reference to `XPlot.GoogleCharts.Deedle.dll` from `packages/FsLab/FsLab.fsx` because it references old version of `Deedle` and is uncompatible with the latest one.
